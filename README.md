@@ -9,5 +9,5 @@ preenchidas dinamicamente consumindo o servidor construído no back.
 </p>
 
 <p align="center">
-<img src="" >
+<img src="https://github.com/AdriellyVitoria/aplicacoesRocketseat/blob/master/imagem/imagem.jpg" >
 </p>
